@@ -3,7 +3,7 @@
 <h2>👨‍💻 SIEM Installation and File Integrity Management Configuration Project:</h2>
 
 - <b> Wazuh installation and FIM Configuration</b>
-  - [Wazuh installation and FIM Configuration](https://github.com/Muts256/Digital-Forensics)
+  - [Wazuh installation and FIM Configuration](https://github.com/Muts256/SIEM)
   
 
 
