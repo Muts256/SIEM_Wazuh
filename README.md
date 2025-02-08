@@ -6,7 +6,6 @@
   - [Wazuh installation and FIM Configuration](https://github.com/Muts256/SIEM_Wazuh)
     
   
-  
 
 
 <h2> 🤳 Connect with me:</h2>
