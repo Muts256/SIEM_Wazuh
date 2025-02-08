@@ -1,9 +1,10 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 SIEM Installation and File Integrity Management Configuration Project:</h2>
+<h2>👨‍💻 System Information and Event Management (SIEM)</h2>
 
-- <b> Wazuh installation and FIM Configuration</b>
+- <b> SIEM Installation & Configuration</b>
   - [Wazuh installation and FIM Configuration](https://github.com/Muts256/SIEM)
+    
   - [Brute-Force Attack on Active Directory](https://github.com/Muts256/)
   
 
