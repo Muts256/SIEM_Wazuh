@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 System Information and Event Management (SIEM)</h2>
 
