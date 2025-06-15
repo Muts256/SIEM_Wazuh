@@ -5,7 +5,11 @@
 - <b> SIEM Installation & Configuration</b>
   - [Wazuh installation and FIM Configuration](https://github.com/Muts256/SIEM_Wazuh)
     
-  
+   Objective:
+    - To enhance the analyst's practical skills using SIEM- Wazuh.
+    - Installation and configuration of Wazah
+    - Monitor file integrity (FIM) for any modification
+    - Document findings see pdf above
 
 
 <h2> 🤳 Connect with me:</h2>
