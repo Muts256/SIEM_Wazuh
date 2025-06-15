@@ -7,7 +7,7 @@
     
    Objective:
     - To enhance the analyst's practical skills using SIEM- Wazuh.
-    - Installation and configuration of Wazah
+    - Installation and configuration of Wazuh
     - Monitor file integrity (FIM) for any modification
     - Document findings see pdf above
 
