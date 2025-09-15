@@ -9,8 +9,13 @@
     - To enhance the analyst's practical skills using SIEM- Wazuh.
     - Installation and configuration of Wazuh
     - Monitor file integrity (FIM) for any modification
-    - Document findings see pdf above
+    - Document findings, see Wazuh Documentation PDF above.
 
+  Lessons Learned
+    - Installation  of Wazuh, configuration of the rules
+    - Configuration to monitor file modification
+    - Installing agents on client devices
+  
 
 <h2> 🤳 Connect with me:</h2>
 
