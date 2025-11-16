@@ -7,17 +7,18 @@
 
   Wazuh is an open-source tool for Security Information and Event Management (SIEM) used by many organizations to ensure a secure environment. This demonstration goes through the setup as well as the configuration of File Integrity Management (FIM)  to detect creations, modifications, and alterations of the monitored file system
 
-  Objective:
+  Summary:
     - To enhance the analyst's practical skills using SIEM- Wazuh.
     - Installation and configuration of Wazuh
-    - Monitor file integrity (FIM) for any modification
-    - Document findings, see Wazuh Documentation PDF above.
+    - Detect modification of files on the system by configuring File Integrity Monitoring (FIM)
+    - 
 
   Lessons Learned
     - Installation  of Wazuh, configuration of the rules
     - Configuration to monitor file modification
     - Installing agents on client devices
-  
+
+   <h4>For the details, open the pdf attached</h4>
 
 <h2> 🤳 Connect with me:</h2>
 
