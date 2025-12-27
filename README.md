@@ -20,7 +20,7 @@
     - Configuration to monitor file modification
     - Installing agents on client devices
 
-   <h4>For the details, see the pdf attached</h4>
+ [PDF](https://github.com/Muts256/SIEM_Wazuh/blob/main/Wazuh%20Documentation.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
